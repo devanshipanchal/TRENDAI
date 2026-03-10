@@ -1,0 +1,60 @@
+{
+  "name": "TrendAI Synthetic Fashion Dataset",
+  "version": "1.0.0",
+  "generated_at": "2026-03-09T17:02:09.421706",
+  "n_items": 5000,
+  "n_trends": 10,
+  "trend_distribution": {
+    "soft_minimalism": 543,
+    "gorpcore": 528,
+    "dopamine_dressing": 528,
+    "regencycore": 522,
+    "biker_aesthetic": 509,
+    "dark_academia": 497,
+    "y2k_revival": 484,
+    "quiet_luxury": 466,
+    "cottagecore": 464,
+    "coastal_grandmother": 459
+  },
+  "velocity_distribution": {
+    "rising": 1580,
+    "stable": 1478,
+    "declining": 1414,
+    "peak": 528
+  },
+  "platform_distribution": {
+    "instagram": 898,
+    "vogue_runway": 858,
+    "ssense_editorial": 841,
+    "farfetch": 813,
+    "pinterest": 798,
+    "tiktok": 792
+  },
+  "date_range": {
+    "start": "2023-01-01T00:00:00",
+    "end": "2025-03-01T00:00:00"
+  },
+  "embedding_dim": 768,
+  "columns": [
+    "item_id",
+    "image_url",
+    "garment_type",
+    "brand",
+    "trend_cluster",
+    "trend_velocity",
+    "trend_description",
+    "caption",
+    "keywords",
+    "platform",
+    "season",
+    "price",
+    "price_tier",
+    "post_date",
+    "days_ago",
+    "engagement_score",
+    "color_primary",
+    "embedding_preview",
+    "embedding"
+  ],
+  "description": "Synthetic dataset simulating scraped fashion content from social media, runways, and retail platforms. Embeddings are mock CLIP-style vectors clustered around 10 trend archetypes. Replace with real CLIP inference in production."
+}

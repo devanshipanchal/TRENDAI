@@ -1,0 +1,375 @@
+[
+  {
+    "cluster_id": "2",
+    "trend_name": "fleece_2",
+    "velocity": "rising",
+    "velocity_score": 1.0,
+    "item_count": 189,
+    "engagement_mean": 0.1683,
+    "engagement_trend": 0.4991,
+    "dominant_platform": "farfetch",
+    "top_keywords": [
+      "fleece",
+      "utility vest",
+      "Gore-Tex",
+      "cargo",
+      "trail runners"
+    ],
+    "color_palette": [
+      "#1C3A5E",
+      "#8B4513",
+      "#2D5016",
+      "#4A4A4A",
+      "#FF6600"
+    ],
+    "representative_items": [
+      "6222099a-377",
+      "fd050953-b0f",
+      "c6057f1d-d12",
+      "c11965bb-c3e",
+      "63b36eb8-c33"
+    ],
+    "date_first_seen": "2023-01-07",
+    "date_peak": "2025-02-25",
+    "umap_centroid": [
+      -11.29224681854248,
+      5.672922134399414
+    ]
+  },
+  {
+    "cluster_id": "4",
+    "trend_name": "leather_jacket_4",
+    "velocity": "rising",
+    "velocity_score": 1.0,
+    "item_count": 204,
+    "engagement_mean": 0.1688,
+    "engagement_trend": 0.3314,
+    "dominant_platform": "ssense_editorial",
+    "top_keywords": [
+      "leather jacket",
+      "mesh",
+      "black",
+      "biker boots",
+      "hardware"
+    ],
+    "color_palette": [
+      "#B8860B",
+      "#8B0000",
+      "#0D0D0D",
+      "#4A4A4A",
+      "#2C2C2C"
+    ],
+    "representative_items": [
+      "3d2c0c83-c40",
+      "efbbb711-08a",
+      "39a92e4a-a14",
+      "7778dd56-004",
+      "3811a444-cd2"
+    ],
+    "date_first_seen": "2023-01-01",
+    "date_peak": "2025-02-21",
+    "umap_centroid": [
+      -1.2511674165725708,
+      -10.748348236083984
+    ]
+  },
+  {
+    "cluster_id": "9",
+    "trend_name": "neutral_9",
+    "velocity": "rising",
+    "velocity_score": 1.0,
+    "item_count": 218,
+    "engagement_mean": 0.1925,
+    "engagement_trend": 0.3946,
+    "dominant_platform": "farfetch",
+    "top_keywords": [
+      "neutral",
+      "monochrome",
+      "wide silhouette",
+      "drape",
+      "linen"
+    ],
+    "color_palette": [
+      "#E8E0D5",
+      "#6B6058",
+      "#9E9289",
+      "#C4B7A6",
+      "#F7F3EE"
+    ],
+    "representative_items": [
+      "1532f734-f1b",
+      "90b5b9c9-efb",
+      "53a82ccf-df6",
+      "43a1af84-23a",
+      "e4f10ed4-e7e"
+    ],
+    "date_first_seen": "2023-01-03",
+    "date_peak": "2025-02-05",
+    "umap_centroid": [
+      5.868094444274902,
+      1.5044304132461548
+    ]
+  },
+  {
+    "cluster_id": "1",
+    "trend_name": "empire_waist_1",
+    "velocity": "stable",
+    "velocity_score": 0.0879,
+    "item_count": 214,
+    "engagement_mean": 0.452,
+    "engagement_trend": 0.0396,
+    "dominant_platform": "ssense_editorial",
+    "top_keywords": [
+      "empire waist",
+      "gloves",
+      "ruffle",
+      "satin",
+      "corset",
+      "pearl"
+    ],
+    "color_palette": [
+      "#F0E6D3",
+      "#C5D4E8",
+      "#A8C5B8",
+      "#D4C5E8",
+      "#E8C5D4"
+    ],
+    "representative_items": [
+      "9c6f7dd7-3e4",
+      "749faaf1-b41",
+      "7250f301-8f4",
+      "9946da74-5a5",
+      "f470fe19-abe"
+    ],
+    "date_first_seen": "2023-01-10",
+    "date_peak": "2023-01-30",
+    "umap_centroid": [
+      -5.157156467437744,
+      0.12126059085130692
+    ]
+  },
+  {
+    "cluster_id": "3",
+    "trend_name": "blazer_3",
+    "velocity": "stable",
+    "velocity_score": 0.0513,
+    "item_count": 199,
+    "engagement_mean": 0.4486,
+    "engagement_trend": 0.0229,
+    "dominant_platform": "vogue_runway",
+    "top_keywords": [
+      "blazer",
+      "corduroy",
+      "oxfords",
+      "turtleneck",
+      "tweed",
+      "plaid"
+    ],
+    "color_palette": [
+      "#2C1810",
+      "#556B2F",
+      "#8B6914",
+      "#4A3728",
+      "#1C1C2E"
+    ],
+    "representative_items": [
+      "2339f778-1f2",
+      "064eefa5-334",
+      "c8ea9289-e2f",
+      "fbed9be9-cbb",
+      "d1495095-e02"
+    ],
+    "date_first_seen": "2023-01-02",
+    "date_peak": "2025-02-22",
+    "umap_centroid": [
+      2.631678342819214,
+      13.397442817687988
+    ]
+  },
+  {
+    "cluster_id": "6",
+    "trend_name": "sequin_6",
+    "velocity": "stable",
+    "velocity_score": 0.001,
+    "item_count": 209,
+    "engagement_mean": 0.5605,
+    "engagement_trend": 0.0005,
+    "dominant_platform": "tiktok",
+    "top_keywords": [
+      "sequin",
+      "oversized",
+      "print-mixing",
+      "color-block",
+      "neon"
+    ],
+    "color_palette": [
+      "#FF1744",
+      "#2979FF",
+      "#FF9100",
+      "#FFEA00",
+      "#00E676"
+    ],
+    "representative_items": [
+      "f3177b92-819",
+      "fcb2f59a-223",
+      "4e379148-5d3",
+      "f343da2a-18b",
+      "faedda54-16b"
+    ],
+    "date_first_seen": "2023-01-04",
+    "date_peak": "2024-04-04",
+    "umap_centroid": [
+      -3.714160203933716,
+      18.110837936401367
+    ]
+  },
+  {
+    "cluster_id": "0",
+    "trend_name": "wide-leg_0",
+    "velocity": "stable",
+    "velocity_score": -0.045,
+    "item_count": 187,
+    "engagement_mean": 0.4688,
+    "engagement_trend": -0.0211,
+    "dominant_platform": "vogue_runway",
+    "top_keywords": [
+      "wide-leg",
+      "floral",
+      "linen",
+      "espadrilles",
+      "straw hat"
+    ],
+    "color_palette": [
+      "#6B8F71",
+      "#F2E8D9",
+      "#E8DCC8",
+      "#9EC6C0",
+      "#D4956A"
+    ],
+    "representative_items": [
+      "03fae7ac-8a7",
+      "4736c7b8-39f",
+      "3ca2b31e-dd0",
+      "38ded89a-d9f",
+      "8fe23a57-bde"
+    ],
+    "date_first_seen": "2023-01-01",
+    "date_peak": "2024-06-13",
+    "umap_centroid": [
+      19.636964797973633,
+      -3.196000576019287
+    ]
+  },
+  {
+    "cluster_id": "8",
+    "trend_name": "wool_coat_8",
+    "velocity": "declining",
+    "velocity_score": -0.6027,
+    "item_count": 191,
+    "engagement_mean": 0.4088,
+    "engagement_trend": -0.2503,
+    "dominant_platform": "farfetch",
+    "top_keywords": [
+      "wool coat",
+      "beige",
+      "cashmere",
+      "cream",
+      "minimalist",
+      "tailored"
+    ],
+    "color_palette": [
+      "#1A1512",
+      "#3D3530",
+      "#F5F0EB",
+      "#D4C5B0",
+      "#8B7D6B"
+    ],
+    "representative_items": [
+      "d5a72dff-947",
+      "78aac1bf-0e9",
+      "5a22f670-259",
+      "7cd21648-00a",
+      "fb80f1e1-4da"
+    ],
+    "date_first_seen": "2023-01-08",
+    "date_peak": "2024-10-08",
+    "umap_centroid": [
+      17.55117416381836,
+      10.447314262390137
+    ]
+  },
+  {
+    "cluster_id": "7",
+    "trend_name": "puff_sleeve_7",
+    "velocity": "declining",
+    "velocity_score": -0.6231,
+    "item_count": 184,
+    "engagement_mean": 0.4244,
+    "engagement_trend": -0.268,
+    "dominant_platform": "vogue_runway",
+    "top_keywords": [
+      "puff sleeve",
+      "prairie dress",
+      "crochet",
+      "mushroom print",
+      "ditsy"
+    ],
+    "color_palette": [
+      "#8FAF7E",
+      "#6B8C5A",
+      "#C17F5A",
+      "#E8D5B7",
+      "#D4B896"
+    ],
+    "representative_items": [
+      "108174db-419",
+      "ba3c6b09-3aa",
+      "0b98f279-46b",
+      "47aa89f1-2f4",
+      "fc691788-4b8"
+    ],
+    "date_first_seen": "2023-01-06",
+    "date_peak": "2023-01-27",
+    "umap_centroid": [
+      12.973291397094727,
+      18.022724151611328
+    ]
+  },
+  {
+    "cluster_id": "5",
+    "trend_name": "low-rise_5",
+    "velocity": "declining",
+    "velocity_score": -0.681,
+    "item_count": 205,
+    "engagement_mean": 0.3947,
+    "engagement_trend": -0.2743,
+    "dominant_platform": "instagram",
+    "top_keywords": [
+      "low-rise",
+      "mini skirt",
+      "rhinestone",
+      "metallic",
+      "crop top"
+    ],
+    "color_palette": [
+      "#FFD700",
+      "#00CED1",
+      "#FF69B4",
+      "#FF4500",
+      "#9370DB"
+    ],
+    "representative_items": [
+      "6522daf2-511",
+      "80038f8d-ee9",
+      "57fa49c8-21a",
+      "abd0fed6-4d8",
+      "105d36ab-af3"
+    ],
+    "date_first_seen": "2023-01-03",
+    "date_peak": "2024-10-27",
+    "umap_centroid": [
+      12.961968421936035,
+      -8.30755615234375
+    ]
+  }
+]
